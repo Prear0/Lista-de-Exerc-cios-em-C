@@ -1,4 +1,8 @@
+/******************************************************************************
 
+29/03/2023 - Victor Prearo - Verifica se um número inserido está entre os outros dois inseridos
+
+*******************************************************************************/
 #include <stdio.h>
 
 int verificaIntervalo(int ,int, int);
