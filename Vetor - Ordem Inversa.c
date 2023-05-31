@@ -1,4 +1,10 @@
+/******************************************************************************
 
+01/03/2023 - Victor Prearo
+
+Exercício 5 - Crie um programa que leia 6 valores inteiros. Em seguida, mostre os elementos em ordem inversa.
+
+*******************************************************************************/
 #include <stdio.h>
 
 int main()
